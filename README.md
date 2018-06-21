@@ -1,13 +1,12 @@
 # rectangle
+*angle triangle*
 
 need pygame to run
 can get at pygame.org
 
-'''pip install pygame'''
+```pip install pygame```
 
-'''apt-get install pygame'''
+```apt-get install pygame```
 
-'''angle triangle'''
-
-**Try running '''3rects.py''' first**
+**Try running ```3rect.py``` first**
 
